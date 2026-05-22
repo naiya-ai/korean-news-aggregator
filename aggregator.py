@@ -1,1 +1,1 @@
-# v0.2: add --days flag
+# v0.3: sort digest by date
